@@ -1,4 +1,4 @@
-# Community Guidelines
+# Community Code of Conduct
 
 ## Principles
 Tattle is a community project committed to improving the health of online conversation in India. It aims to empower people to critically examine the information they receive.
