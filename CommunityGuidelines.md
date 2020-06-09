@@ -18,9 +18,11 @@ Broadly this is what we strive for as a platform and a community:
 
 
 ## Community Standards
-The previous section lists the principles behind the specifics of the community guidelines. This section has more concrete steps to implement these guidelines.
+The previous section lists the principles behind the specifics of the community guidelines. Following sections contain definite guiding instructions that community members are expected to follow.
 
-Examples of dos that can contribute to a positive environment for our community include:
+The Dos and Dont's listed below are indicative of lines of acceptable/unacceptable behavior but are by no means exhaustive.
+
+**Examples of dos that can contribute to a positive environment for our community include**:
  
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
@@ -29,7 +31,7 @@ Examples of dos that can contribute to a positive environment for our community 
 * Focusing on what is best not just for us as individuals, but for the overall community
 * Recognizing the different backgrounds and disciplines amongst the community members and appreciating the knowledge from those lived experiences and educational training. Therefore always be mindful of the vocabulary that is being used to accomodate acceptable common slangs, words and phrases.
 
-Examples of don’t or unacceptable behavior include:
+**Examples of don’t or unacceptable behavior include**:
  
 * The use of sexualized language or imagery, and sexual attention or advances of any kind.
 * Trolling, insulting or derogatory comments, and personal or political attacks. Trolling is a nebulous and ever expanding world, thus the last responsibility will lie with our moderators who have the responsibility to look out for all the community members and identify and prohibit anything that can cause hurt or pain or even discomfort to any member.
