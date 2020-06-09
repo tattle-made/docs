@@ -1,11 +1,11 @@
 # Community Guidelines
 
 ## Principles
-Tattle is a community project committed to improving the health of online conversation in India. It aims to channelize and strengthen the sense of enquiry to empower people to critically examine the information they receive.
+Tattle is a community project committed to improving the health of online conversation in India. It aims to empower people to critically examine the information they receive.
 
-The guidelines here are designed to ensure that each one of us here feels safe, confident and inspired enough to strive for a conversation; and propose new ideas and experiments to deal with the challenge of misinformation. This is a space for the developer who is coding the modules of the platform; the designer who is drafting the look and feel of the platform; the fact-finder who is investigating the sources and examining the causes or mechanisms of the spread of misinformation; the academic who brings context of global research methodologies and local issue; the story-teller who wants to explore new narratives; the illustrator who leverages the power of graphics to communicate ideas; the linguist who uses their expertise to think through the grammar of misinformation in various languages.  This is a space for everyone to participate and engage in improving how Indians participate in online conversations.
+The guidelines here are designed to ensure that everyone at Tattle feels safe, confident and inspired enough to strive for a conversation; and propose new ideas and experiments to deal with the challenge of misinformation. This is a space for the developer who is coding the modules of the platform; the designer who is drafting the look and feel of the platform; the fact-finder who is investigating the sources and examining the causes or mechanisms of the spread of misinformation; the academic who brings context of global research methodologies and local issue; the story-teller who wants to explore new narratives; the illustrator who leverages the power of graphics to communicate ideas; the linguist who uses their expertise to think through the grammar of misinformation in various languages.  This is a space for everyone to participate and engage in improving how Indians participate in online conversations.
 
-Any disagreements with other members of the community, or even those drafting these guidelines should be taken up respectfully- do let us know if we can add to these guidelines. These guidelines like other community spaces are intended to be democratic. 
+Any disagreements with other members of the community, or even those drafting these guidelines should be taken up respectfully- do let us know if we can improve these guidelines. These guidelines like other community spaces are intended to be democratic. 
 
 Broadly this is what we strive for as a platform and a community:
 * **Enquiry and Investigation:** We strive for a spirit of curiosity in our efforts, in suggestions and in the conversations we hold as a part of this community.
@@ -18,7 +18,7 @@ Broadly this is what we strive for as a platform and a community:
 
 
 ## Community Standards
-The previous section lists the principles behind the specifics of the community guidelines. 
+The previous section lists the principles behind the specifics of the community guidelines. This section has more concrete steps to implement these guidelines.
 
 Examples of dos that can contribute to a positive environment for our community include:
  
@@ -38,7 +38,7 @@ Examples of don’t or unacceptable behavior include:
 
 
 ## Enforcement Responsibilities
-To enforce this code of conduct, a few people are designated as community leaders. They have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct. The appropriate reasons for moderation decisions will be communicated publicly. 
+To enforce this code of conduct, a few people are designated as [community leaders](https://github.com/tattle-made/docs/wiki/Community-Leaders). They have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct. The appropriate reasons for moderation decisions will be communicated publicly. 
 
 ## Scope
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. When we say Tattle community we mean all of the places our team and users occupy and all of the ventures we are associated with. Our community means all who work with us, collaborate with us and interact with us in one way or another. Examples of representing include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
@@ -48,11 +48,11 @@ This Code of Conduct applies within all community spaces, and also applies when 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the Tattle team via email (admin@tattle.co.in). When reporting abuse or violations, please include a link to the post or thread being reporting. The person reporting doesn't have to be the one who suffered. Furthermore, it is especially important to report situations where the perpetrator or the wrongdoer is a community leader. In such a scenario, reach out to another community leader that you trust. In case of hesitation in being identified, please fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSerBRPzMBHS02kPAws0OFYaKy1Oxr-ZsJ8j4IpMH2L-bGhyeQ/viewform?usp=sf_link) to anonymously report the issue.  
 When unsure about a certain violation, lean towards reporting. At best, it will prevent harm to specific individuals. At worst, it will spark a healthy discussion on acceptable behavior. 
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident. All complaints will be reviewed and investigated promptly and fairly.
+All [community leaders](https://github.com/tattle-made/docs/wiki/Community-Leaders) are obligated to respect the privacy and security of the reporter of any incident. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+[Community leaders](https://github.com/tattle-made/docs/wiki/Community-Leaders) will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
 1. Correction
 
