@@ -40,7 +40,7 @@ The Dos and Dont's listed below are indicative of lines of acceptable/unacceptab
 
 
 ## Enforcement Responsibilities
-To enforce this code of conduct, a few people are designated as [community leaders](https://github.com/tattle-made/docs/wiki/Community-Leaders). They have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct. The appropriate reasons for moderation decisions will be communicated publicly. 
+To enforce this code of conduct, a few people are designated as [community leaders](https://github.com/tattle-made/docs/wiki/Community-Leaders). They have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct. When approriate, the reasons for moderation decisions will be communicated publicly. 
 
 ## Scope
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. When we say Tattle community we mean all of the places our team and users occupy and all of the ventures we are associated with. Our community means all who work with us, collaborate with us and interact with us in one way or another. Examples of representing include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
