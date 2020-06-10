@@ -85,11 +85,11 @@ behavior was inappropriate. A public apology may be requested.
 
 ## Attribution
 
-Sections of these guidelines have been adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
+Sections of these guidelines have been adapted from 
+* the [Contributor Covenant][homepage], version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
+* [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
