@@ -1,7 +1,7 @@
 # Show and Tell Sessions Details
 
 
-* **22 July 2020: Responsible Data Collection from WhatsApp at Scale
+* **22 July 2020: Responsible Data Collection from WhatsApp at Scale**
   * Presenter: Suraj Sharma
   * [Video Link](https://vimeo.com/441454520) is password protected. Ask one of the maintainers for password if required. 
 
