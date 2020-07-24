@@ -1,11 +1,12 @@
 # Show and Tell Sessions Details
 
+
 * **22 July 2020: Responsible Data Collection from WhatsApp at Scale
- * Presenter: Suraj Sharma
- * [Video Link](https://vimeo.com/441454520) is password protected. Ask one of the maintainers for password if required. 
+  * Presenter: Suraj Sharma
+  * [Video Link](https://vimeo.com/441454520) is password protected. Ask one of the maintainers for password if required. 
 
 * **9 July 2020: Engaging Social Media Users in Combatting Misinformation**
- * Presenters: Gyan Lakhwani, Shubham Atreja
+  * Presenters: Gyan Lakhwani, Shubham Atreja
 
 * **3 July 2020: Using Github for Project Management and Automation**
   * Presenter: Denny George
