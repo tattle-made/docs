@@ -3,7 +3,7 @@
 
 * **22 July 2020: Responsible Data Collection from WhatsApp at Scale**
   * Presenter: Suraj Sharma
-  * [Video Link](https://vimeo.com/441454520) is password protected. Ask one of the maintainers for password if required. 
+  * [Video Link](https://vimeo.com/441454520) is password protected since it PII were captured in some frames. Ask one of the maintainers for password if required. 
 
 * **9 July 2020: Engaging Social Media Users in Combatting Misinformation**
   * Presenters: Gyan Lakhwani, Shubham Atreja
