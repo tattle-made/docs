@@ -11,7 +11,7 @@
 * **3 July 2020: Using Github for Project Management and Automation**
   * Presenter: Denny George
   * [Presentation Link](https://docs.google.com/presentation/d/1fnGdLpvKCTNXhZBXYlYW4rgNwSiB66MfTZPCMBarHd8/edit?usp=sharing)
-  * Video Link()
+  * [Video Link](https://www.youtube.com/watch?v=2RrPHdKcGX4)
 
 * **26 June 2020: Introduction to Kubernetes**
   * Presenter: Yohan Matthew
