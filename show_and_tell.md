@@ -1,5 +1,9 @@
 # Show and Tell Sessions Details
 
+* **29 July 2020: Responsible Data Collection from WhatsApp at Scale**
+  * Presenter: Kruttika Nadig
+  * [Presentation Link]()
+  * [Video Link](https://www.youtube.com/watch?v=7fDzLKq_bOI&feature=youtu.be) 
 
 * **22 July 2020: Responsible Data Collection from WhatsApp at Scale**
   * Presenter: Suraj Sharma
