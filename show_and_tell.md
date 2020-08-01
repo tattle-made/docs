@@ -2,7 +2,7 @@
 
 * **29 July 2020: Responsible Data Collection from WhatsApp at Scale**
   * Presenter: Kruttika Nadig
-  * [Presentation Link]()
+  * [Presentation Link](https://github.com/tattle-made/docs/blob/master/working_groups/content_relevance/ShowAndTell_Multimodal_ML.pdf)
   * [Video Link](https://www.youtube.com/watch?v=7fDzLKq_bOI&feature=youtu.be) 
 
 * **22 July 2020: Responsible Data Collection from WhatsApp at Scale**
