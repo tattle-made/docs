@@ -1,5 +1,20 @@
 # Show and Tell Sessions Details
 
+* **21 August 2020: Developing a Framework for Misinformation:Covid-19 **
+  * Presenter: Kayj (Katherine) Garrison & Luke Kudryashov
+  * Presentation Link
+  * Video Link
+
+* **14 August 2020: NLP Today- From Embeddings to Transformers**
+  * Presenter: Swair Shah
+  * [Presentation Link]
+  * [Video Link](https://www.youtube.com/watch?v=cCrCuMSbZpc) 
+  
+* **7 August 2020: NLP Today- From Embeddings to Transformers**
+  * Presenter: Swair Shah
+  * [Presentation Link]
+  * [Video Link](https://vimeo.com/448477917) is password protected for now. Needs editing. Ask one of the maintainers for password if required.
+
 * **29 July 2020: Machine Learning Approaches for Multilingual Multimedia**
   * Presenter: Kruttika Nadig
   * [Presentation Link](https://github.com/tattle-made/docs/blob/master/working_groups/content_relevance/ShowAndTell_Multimodal_ML.pdf)
