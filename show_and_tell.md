@@ -1,6 +1,7 @@
 # Show and Tell Sessions Details
 
-* **21 August 2020: Developing a Framework for Misinformation:Covid-19 **
+
+* **21 August 2020: Developing a Framework for Misinformation:Covid-19**
   * Presenter: Kayj (Katherine) Garrison & Luke Kudryashov
   * Presentation Link
   * Video Link
