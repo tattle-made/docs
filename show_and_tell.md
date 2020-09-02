@@ -6,7 +6,7 @@
   * Presentation Link
   * Video Link
 
-* **14 August 2020: NLP Today- From Embeddings to Transformers**
+* **14 August 2020: NLP Today- Introduction to GPT-3**
   * Presenter: Swair Shah
   * [Presentation Link]
   * [Video Link](https://www.youtube.com/watch?v=cCrCuMSbZpc) 
